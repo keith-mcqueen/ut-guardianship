@@ -1,0 +1,112 @@
+{
+  "district-courts-by-number": {
+    "1": {
+      "name": "1st Judicial District",
+      "long-name": "First Judicial District Court",
+      "counties": [
+        "Box Elder County",
+        "Cache County",
+        "Rich County"
+      ]
+    },
+    "2": {
+      "name": "2nd Judicial District",
+      "long-name": "Second Judicial District Court",
+      "counties": [
+        "Davis County",
+        "Morgan County",
+        "Weber County"
+      ]
+    },
+    "3": {
+      "name": "3rd Judicial District",
+      "long-name": "Third Judicial District Court",
+      "counties": [
+        "Salt Lake County",
+        "Summit County",
+        "Tooele County"
+      ]
+    },
+    "4": {
+      "name": "4th Judicial District",
+      "long-name": "Fourth Judicial District Court",
+      "counties": [
+        "Juab County",
+        "Millard County",
+        "Utah County",
+        "Wasatch County"
+      ]
+    },
+    "5": {
+      "name": "5th Judicial District",
+      "long-name": "Fifth Judicial District Court",
+      "counties": [
+        "Beaver County",
+        "Iron County",
+        "Washington County"
+      ]
+    },
+    "6": {
+      "name": "6th Judicial District",
+      "long-name": "Sixth Judicial District Court",
+      "counties": [
+        "Garfield County",
+        "Kane County",
+        "Piute County",
+        "Sanpete County",
+        "Sevier County",
+        "Wayne County"
+      ]
+    },
+    "7": {
+      "name": "7th Judicial District",
+      "long-name": "Seventh Judicial District Court",
+      "counties": [
+        "Carbon County",
+        "Emery County",
+        "Grand County",
+        "San Juan County"
+      ]
+    },
+    "8": {
+      "name": "8th Judicial District",
+      "long-name": "Eighth Judicial District Court",
+      "counties": [
+        "Daggett County",
+        "Duchesne County",
+        "Uintah County"
+      ]
+    }
+  },
+  "district-courts-by-county": {
+    "Box Elder County": "1",
+    "Cache County": "1",
+    "Rich County": "1",
+    "Davis County": "2",
+    "Morgan County": "2",
+    "Weber County": "2",
+    "Salt Lake County": "3",
+    "Summit County": "3",
+    "Tooele County": "3",
+    "Juab County": "4",
+    "Millard County": "4",
+    "Utah County": "4",
+    "Wasatch County": "4",
+    "Beaver County": "5",
+    "Iron County": "5",
+    "Washington County": "5",
+    "Garfield County": "6",
+    "Kane County": "6",
+    "Piute County": "6",
+    "Sanpete County": "6",
+    "Sevier County": "6",
+    "Wayne County": "6",
+    "Carbon County": "7",
+    "Emery County": "7",
+    "Grand County": "7",
+    "San Juan County": "7",
+    "Daggett County": "8",
+    "Duchesne County": "8",
+    "Uintah County": "8"
+  }
+}
